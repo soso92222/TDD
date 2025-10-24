@@ -13,7 +13,7 @@ Un script de configuration (`conftest.py`) permet également **d’ouvrir automa
 ```
 .
 ├── conftest.py           # Configuration Pytest (client Flask + ouverture automatique des rapports)
-├── test_route.py         # Tests des routes principales du serveur Flask
+├── Tests                 # Dossiee Tests 
 ├── server.py             # Application Flask (non incluse ici)
 ├── requirements.txt      # Dépendances du projet (optionnel)
 └── htmlcov/              # Rapport HTML de couverture (généré automatiquement)
