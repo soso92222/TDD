@@ -82,3 +82,8 @@ pytest --cov=server --cov-report=html --html=report.html
 **Sofiane Zaion**  
 Étudiant en développement web & DevOps  
 📧 [sofianezaion@outlook.fr](sofianezaion@outlook.fr)
+
+
+
+<img width="1290" height="761" alt="image" src="https://github.com/user-attachments/assets/fe3f8bd1-b902-43c5-b97f-22cf873384de" />
+
