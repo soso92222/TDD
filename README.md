@@ -1,5 +1,11 @@
 # 🧪 Tests automatiques Flask avec Pytest & Couverture
 
+<img width="1290" height="761" alt="image" src="https://github.com/user-attachments/assets/fe3f8bd1-b902-43c5-b97f-22cf873384de" />
+<img width="1918" height="368" alt="image" src="https://github.com/user-attachments/assets/5132d1a0-1d8c-47d0-a1e2-9ab0b068cee1" />
+<img width="902" height="852" alt="image" src="https://github.com/user-attachments/assets/19188d6d-d9d2-4de7-ae21-ce5b4842f0f7" />
+
+
+
 ## 📖 Description
 
 Ce projet contient une suite de tests automatisés pour une application Flask.  
@@ -85,5 +91,4 @@ pytest --cov=server --cov-report=html --html=report.html
 
 
 
-<img width="1290" height="761" alt="image" src="https://github.com/user-attachments/assets/fe3f8bd1-b902-43c5-b97f-22cf873384de" />
 
